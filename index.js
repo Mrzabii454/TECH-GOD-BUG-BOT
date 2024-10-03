@@ -1,10 +1,10 @@
-//base by Tech-God
+//base by Zabii-king
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: @zabiiking
+//Instagram: zabiiking
+//Telegram: t.me/zabii king
+//GitHub: @zabii king
+//WhatsApp: +966581429628
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 const {
